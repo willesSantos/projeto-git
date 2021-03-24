@@ -7,7 +7,7 @@ namespace ProjetoComGit
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Mundo");
-            Console.WriteLine("teste testando);
+            Console.WriteLine("teste testando");
         }
     }
 }
